@@ -1,2 +1,2 @@
-# estudo_html
+# Estudos em HTML
 Apenas códigos que estou aprendendo em HTML
